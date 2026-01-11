@@ -1,0 +1,7 @@
+{
+  "name": "MyCar Driver Chennai",
+  "description": "Premium acting driver service in Chennai. Verified drivers for city, outstation, and emergency trips starting at ₹130/hour.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
